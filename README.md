@@ -380,6 +380,8 @@
 | XSStrike                                                     | XSS扫描器                                                    | [Github](https://github.com/s0md3v/XSStrike)                 | /                                     |
 | PwnXSS                                                       | XSS漏洞扫描利用工具                                          | [Github](https://github.com/pwn0sec/PwnXSS)                  | /                                     |
 | Dalfox                                                       | xss漏洞扫描器                                                | [Github](https://github.com/hahwul/dalfox)                   | /                                     |
+| ----**SSTI**                                                 |                                                            |                                              
+| Fenjing                                                      | Jinja SSTI绕过WAF的全自动脚本                                | (https://github.com/Marven11/Fenjing))                   | /                                     |
 | ----**Other**                                                |                                                              |                                                              |                                       |
 | Commix                                                       | All-in-One的自动化命令注入利用工具                           | [Github](https://github.com/commixproject/commix)            | /                                     |
 | LFISuite                                                     | 本地文件包含利用工具                                         | [Github](https://github.com/D35m0nd142/LFISuite)             | /                                     |
