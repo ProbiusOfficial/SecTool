@@ -92,7 +92,7 @@
 
 | 项目名称      | Usage                                                        | 项目地址                                                     | 文档 |
   | ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-  | CyberChef     | 近乎全能的编码解码工具。<img src="./src/chrome.svg" width="19" height="13" /> | [官网](https://cyberchef.org/)<br />[国内中文镜像站](https://ctf.mzy0.com/CyberChef3/) | /    |
+  | CyberChef     | 近乎全能的编码解码工具。<img src="./src/chrome.svg" width="19" height="13" /> | [官网(old)](https://cyberchef.org/)<br />[官网(new)](https://gchq.github.io/CyberChef/)<br />[国内中文镜像站](https://ctf.mzy0.com/CyberChef3/)<br />[Github](https://github.com/gchq/CyberChef) | /    |
   | Ciphey        | 自动化解密工具。                                             | [Github](https://github.com/Ciphey/Ciphey)                   |      |
   | CTFCrackTools | 国内首个CTF工具框架,内涵多个主流密码加解密，支持添加支持Python编写的插件。 | [Github](https://github.com/0Chencc/CTFCrackTools)           | /    |
 
